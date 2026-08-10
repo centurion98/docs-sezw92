@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-gf6kn4.pulaucuanwin.sbs/sitemap.xml
